@@ -1,0 +1,9 @@
+[package]
+name = "silkybear"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+elf = "0.7.4"
+exec = "0.3.1"
+fork = "0.1.23"
